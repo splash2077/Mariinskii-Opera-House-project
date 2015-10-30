@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ForeverGame</string>
+    <string name="a1">Hi kwakita! this is the 1st page</string>
+    <string name="a2">Hi kwakita! this is the 2nd page</string>
+    <string name="a3">Hi kwakita! this is the 3rd page</string>
+    <string name="a4">Hi kwakita! this is the 4th page</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_second">secondActivity</string>
+    <string name="title_activity_third">thirdActivity</string>
+    <string name="title_activity_forth">forthActivity</string>
+</resources>

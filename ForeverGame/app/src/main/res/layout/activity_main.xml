@@ -25,7 +25,8 @@
         android:id="@+id/music"
         android:onClick="playAll"
         android:layout_below="@+id/Text"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerHorizontal="true"
+        android:drawableLeft="@drawable/ic_play_circle_outline_black_24dp" />
 
     <Button
         android:layout_width="wrap_content"
@@ -43,7 +44,8 @@
         android:layout_below="@+id/music"
         android:layout_centerHorizontal="true"
         android:onClick="playGuitar"
-        android:text="Guitar" />
+        android:text="Guitar"
+        android:drawableLeft="@drawable/ic_play_circle_outline_black_24dp" />
 
     <Button
         android:layout_width="wrap_content"
@@ -52,6 +54,7 @@
         android:id="@+id/button5"
         android:layout_below="@+id/button4"
         android:layout_centerHorizontal="true"
-        android:onClick="playHighBvs" />
+        android:onClick="playHighBvs"
+        android:drawableLeft="@drawable/ic_play_circle_outline_black_24dp" />
 
 </RelativeLayout>
